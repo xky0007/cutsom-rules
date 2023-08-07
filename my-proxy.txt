@@ -1,5 +1,5 @@
 payload: 
-  - IP-CIDR,138.2.55.141/32
+  - IP-CIDR,'138.2.55.141/32'
   - DOMAIN-KEYWORD,tly.llc
   - DOMAIN-KEYWORD,suyunti1.com
   - DOMAIN-KEYWORD,notion 
