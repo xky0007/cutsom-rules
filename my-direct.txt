@@ -1,0 +1,6 @@
+payload:
+  - PROCESS-NAME,TeamViewer_Service.exe
+  - PROCESS-NAME,Teams.exe
+  - PROCESS-NAME,Outlook.exe
+  - DOMAIN-SUFFIX,*.teams.microsoft.com  
+  - DOMAIN-KEYWORD,parsec
