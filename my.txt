@@ -1,0 +1,16 @@
+payload:
+  - PROCESS-NAME,TeamViewer_Service.exe,DIRECT
+  - IP-CIDR,138.2.55.141/32,PROXY
+  - DOMAIN-KEYWORD,tly.llc,PROXY
+  - DOMAIN-KEYWORD,suyunti1.com,PROXY
+  - DOMAIN-KEYWORD,notion,PROXY
+  - PROCESS-NAME,Teams.exe,DIRECT
+  - PROCESS-NAME,Outlook.exe,DIRECT
+  - DOMAIN-SUFFIX,*.teams.microsoft.com,DIRECT
+  - DOMAIN-SUFFIX,stackblitz.com,PROXY
+  - DOMAIN-SUFFIX,69shu.com,PROXY
+  - PROCESS-NAME,Notion.exe,PROXY
+  - DOMAIN-SUFFIX,google-analytics.com,PROXY
+  - DOMAIN-SUFFIX,notion.so,PROXY
+  - DOMAIN-KEYWORD,whatismyipaddress.com,PROXY
+  - DOMAIN-KEYWORD,parsec,DIRECT
