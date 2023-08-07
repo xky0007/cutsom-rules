@@ -1,0 +1,11 @@
+payload: 
+  - IP-CIDR,138.2.55.141/32
+  - DOMAIN-KEYWORD,tly.llc
+  - DOMAIN-KEYWORD,suyunti1.com
+  - DOMAIN-KEYWORD,notion 
+  - DOMAIN-SUFFIX,stackblitz.com
+  - DOMAIN-SUFFIX,69shu.com
+  - PROCESS-NAME,Notion.exe
+  - DOMAIN-SUFFIX,google-analytics.com
+  - DOMAIN-SUFFIX,notion.so
+  - DOMAIN-KEYWORD,whatismyipaddress.com
