@@ -9,3 +9,5 @@ payload:
   - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,notion.so
   - DOMAIN-KEYWORD,whatismyipaddress.com
+  - DOMAIN-KEYWORD,googleapis.cn
+  - DOMAIN-KEYWORD,googleapis.com
