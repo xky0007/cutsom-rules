@@ -1,9 +1,10 @@
 payload: 
-  - DOMAIN-KEYWORD,libhunt.com,PROXY
-  - IP-CIDR,138.2.55.141/32
-  - DOMAIN-KEYWORD,tly.llc
-  - DOMAIN-KEYWORD,suyunti1.com
-  - DOMAIN-KEYWORD,notion 
+  - DOMAIN-KEYWORD,libhunt.com
+  - DOMAIN-KEYWORD,googleapis
+  - DOMAIN-KEYWORD,bulianglin.com
+  - DOMAIN-KEYWORD,paradox
+  - DOMAIN-KEYWORD,paradox-interactive
+  - DOMAIN-KEYWORD,selenium.dev
   - DOMAIN-SUFFIX,stackblitz.com
   - DOMAIN-SUFFIX,69shu.com
   - DOMAIN-SUFFIX,google-analytics.com
