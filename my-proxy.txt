@@ -6,7 +6,7 @@ payload:
   - DOMAIN-KEYWORD,paradox-interactive
   - DOMAIN-KEYWORD,selenium.dev
   - DOMAIN-SUFFIX,stackblitz.com
-  - DOMAIN-SUFFIX,69shu.com
+  - DOMAIN-SUFFIX,69shuba.com
   - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,notion.so
   - DOMAIN-KEYWORD,whatismyipaddress.com
