@@ -1,4 +1,5 @@
 payload: 
+  - DOMAIN-KEYWORD,jsdelivr.net
   - DOMAIN-KEYWORD,libhunt.com
   - DOMAIN-KEYWORD,googleapis
   - DOMAIN-KEYWORD,bulianglin.com
